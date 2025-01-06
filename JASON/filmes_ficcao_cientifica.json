@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Inception",
+        "diretor": "Christopher Nolan",
+        "ano": 2010,
+        "genero": "Ficção Científica"
+    },
+    {
+        "titulo": "Interstellar",
+        "diretor": "Christopher Nolan",
+        "ano": 2014,
+        "genero": "Ficção Científica"
+    }
+]

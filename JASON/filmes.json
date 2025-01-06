@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Inception",
+        "diretor": "Christopher Nolan",
+        "ano": 2010,
+        "genero": "Ficção Científica"
+    },
+    {
+        "titulo": "The Shawshank Redemption",
+        "diretor": "Frank Darabont",
+        "ano": 1994,
+        "genero": "Drama"
+    },
+    {
+        "titulo": "The Dark Knight",
+        "diretor": "Christopher Nolan",
+        "ano": 2008,
+        "genero": "Ação"
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "diretor": "Quentin Tarantino",
+        "ano": 1994,
+        "genero": "Crime"
+    },
+    {
+        "titulo": "The Godfather",
+        "diretor": "Francis Ford Coppola",
+        "ano": 1972,
+        "genero": "Crime"
+    },
+    {
+        "titulo": "Interstellar",
+        "diretor": "Christopher Nolan",
+        "ano": 2014,
+        "genero": "Ficção Científica"
+    }
+]

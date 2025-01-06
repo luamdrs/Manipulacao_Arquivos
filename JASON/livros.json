@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "O Senhor dos Anéis",
+        "autor": "J.R.R. Tolkien",
+        "preco": 49.90,
+        "categoria": "Fantasia"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "preco": 29.90,
+        "categoria": "Ficção"
+    },
+    {
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "preco": 19.90,
+        "categoria": "Ficção"
+    },
+    {
+        "titulo": "O Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "preco": 39.90,
+        "categoria": "Fantasia"
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "preco": 39.90,
+        "categoria": "Literatura Brasileira"
+    },
+    {
+        "titulo": "A Moreninha",
+        "autor": "Joaquim Manuel de Macedo",
+        "preco": 25.00,
+        "categoria": "Literatura Brasileira"
+    }
+]

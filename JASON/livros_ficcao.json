@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "preco": 29.9,
+        "categoria": "Ficção"
+    },
+    {
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "preco": 19.9,
+        "categoria": "Ficção"
+    }
+]
